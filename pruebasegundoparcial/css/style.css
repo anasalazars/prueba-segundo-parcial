@@ -1,0 +1,64 @@
+.carousel-item h1,h6{
+	text-align: center;
+	font-weight: 100;
+}
+.carousel-item h6{
+	padding-bottom: 300px;
+	font-weight: 100;
+}
+#sec-about{
+	padding: 50px;
+	text-align: center;
+}
+#sec-about h1{
+	font-weight: 90;
+	padding-bottom: 40px;
+}
+.fa-calendar-alt, .fa-money-bill-alt, .fa-compact-disc{
+	background-color: #FE8F01;
+	color: #fff;
+	font-size: 35px;
+}
+.fa-calendar-alt, .fa-money-bill-alt, .fa-compact-disc{
+	padding-top: 35px;
+}
+#sec-about h3{
+	color: #fff;
+	padding: 18px;
+	font-size: 20px;
+}
+#sec-about p{
+	color: #fff;
+	text-align: center;
+	padding-bottom: 25px;
+}
+.expert, .affordable, .works{
+	background-color: #494949;
+	margin: 10px;
+}
+#sec-counter{
+	text-align: center;
+	background-color: #010101;
+	padding: 70px;
+}
+.fa-smile, .fa-instagram, .fa-trophy, .fa-edit{
+	padding-bottom: 20px;
+	font-size: 40px;
+	color: #fff;
+	text-align: center;
+}
+#sec-counter h2{
+	color: #fff;
+	font-weight: 5;
+}
+#sec-counter h6{
+	color: #FE8F01;
+}
+.footer{
+	background-color: #2F2F2F;
+	text-align: center;
+	padding: 20px;
+}
+.footer h6{
+	color: #fff;
+}
